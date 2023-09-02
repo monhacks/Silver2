@@ -8,10 +8,10 @@ JohtoGrassWildMons:
 	db 3, RATTATA
 	db 4, RATTATA
 	db 5, RATTATA
-	db 3, RATTATA
+	db 3, MISDREAVUS
 	db 6, RATTATA
 	db 5, RATTATA
-	db 5, RATTATA
+	db 5, MISDREAVUS
 	; day
 	db 3, RATTATA
 	db 4, RATTATA
