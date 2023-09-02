@@ -1852,7 +1852,7 @@ JohtoGrassWildMons:
 	; morn
 	db 12, NIDORAN_M
 	db 12, NIDORAN_F
-	db 14, DROWZEE
+	db 14, HOUNDOUR
 	db 10, ABRA
 	db 14, PIDGEY
 	db 10, DITTO
@@ -1879,7 +1879,7 @@ JohtoGrassWildMons:
 	db 12, NIDORAN_M
 	db 14, DROWZEE
 	db 10, ABRA
-	db 14, PIDGEY
+	db 14, HOUNDOUR
 	db 10, DITTO
 	db 12, YANMA
 	; day
@@ -1887,7 +1887,7 @@ JohtoGrassWildMons:
 	db 12, NIDORAN_M
 	db 14, DROWZEE
 	db 10, ABRA
-	db 14, PIDGEY
+	db 14, HOUNDOUR
 	db 10, DITTO
 	db 12, YANMA
 	; nite
@@ -1895,7 +1895,7 @@ JohtoGrassWildMons:
 	db 12, NIDORAN_M
 	db 14, DROWZEE
 	db 10, ABRA
-	db 14, HOOTHOOT
+	db 14, HOUNDOUR
 	db 10, DITTO
 	db 12, YANMA
 	ENDC
@@ -1932,27 +1932,27 @@ JohtoGrassWildMons:
 	; morn
 	db 12, NIDORAN_F
 	db 12, NIDORAN_M
-	db 13, PIDGEY
+	db 13, GROWLITHE
 	db 13, VULPIX
 	db 13, STANTLER
-	db 15, PIDGEY
-	db 15, PIDGEY
+	db 15, LARVITAR
+	db 15, LARVITAR
 	; day
 	db 12, NIDORAN_F
 	db 12, NIDORAN_M
-	db 14, PIDGEY
+	db 14, GROWLITHE
 	db 13, VULPIX
 	db 13, STANTLER
-	db 15, VULPIX
-	db 15, VULPIX
+	db 15, LARVITAR
+	db 15, LARVITAR
 	; nite
 	db 12, NIDORAN_F
 	db 12, NIDORAN_M
-	db 13, HOOTHOOT
+	db 13, GROWLITHE
 	db 13, VULPIX
 	db 13, STANTLER
-	db 15, HOOTHOOT
-	db 15, HOOTHOOT
+	db 15, LARVITAR
+	db 15, LARVITAR
 	ENDC
 	end_grass_wildmons
 
