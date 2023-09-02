@@ -27,7 +27,7 @@ JohtoGrassWildMons:
 	db 3, MISDREAVUS
 	db 6, GASTLY
 	db 5, RATTATA
-	db 5, MISDREVUS
+	db 5, MISDREAVUS
 	end_grass_wildmons
 
 	def_grass_wildmons SPROUT_TOWER_3F
