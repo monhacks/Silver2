@@ -142,6 +142,7 @@ ROMX $37
 	"Tileset Data 5"
 ROMX $38
 	"bank38"
+        "Pics 15"
 ROMX $39
 	"Copyright"
 	"Title Screen 2"
