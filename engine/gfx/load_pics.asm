@@ -182,7 +182,7 @@ GetMonBackpic:
 	call CloseSRAM
 	ret
 
--FixPicBank:
+FixPicBank:
 ; Precondition:  a = defined bank for pic
 ; Postcondition: a = repaired bank for pic
 ;
