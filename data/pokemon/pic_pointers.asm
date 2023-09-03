@@ -508,6 +508,4 @@ PokemonPicPointers::
 	dba_pic HoOhBackpic
 	dba_pic CelebiFrontpic
 	dba_pic CelebiBackpic
-        dba MismagiusFrontpic
-        dba MismagiusBackpic
 	assert_table_length NUM_POKEMON
