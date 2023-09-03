@@ -136,7 +136,6 @@ AlphabeticalPokedexOrder:
 	db MEWTWO
 	db MILTANK
 	db MISDREAVUS
-        db MISMAGIUS
 	db MOLTRES
 	db MR__MIME
 	db MUK
