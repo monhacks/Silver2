@@ -689,3 +689,8 @@ UnownPBackpic:       INCBIN "gfx/pokemon/unown_p/back.2bpp.lz"
 UnownIFrontpic:      INCBIN "gfx/pokemon/unown_i/front.2bpp.lz"
 UnownRBackpic:       INCBIN "gfx/pokemon/unown_r/back.2bpp.lz"
 UnownRFrontpic:      INCBIN "gfx/pokemon/unown_r/front.2bpp.lz"
+
+SECTION "Pics 15", ROMX
+
+MismagiusFrontpic:   INCBIN "gfx/pokemon/mismagius/front_gold.2bpp.1z"
+MismagiusBackpic:    INCBIN "gfx/pokemon/mismagius/back.2bpp.1z"
