@@ -405,8 +405,6 @@ PokemonPicPointers::
 	dba_pic MisdreavusBackpic
 
 	; Unown pics have their own table. See UnownPicPointers
-	dbw -1, -1
-	dbw -1, -1
 
 	dba_pic WobbuffetFrontpic
 	dba_pic WobbuffetBackpic
@@ -508,4 +506,6 @@ PokemonPicPointers::
 	dba_pic HoOhBackpic
 	dba_pic CelebiFrontpic
 	dba_pic CelebiBackpic
+        dba_pic MismagiusFrontpic
+        dba_pic MismagiusBackPic
 	assert_table_length NUM_POKEMON
