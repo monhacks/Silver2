@@ -2688,6 +2688,7 @@ SlowkingEvosAttacks:
 	db 0 ; no more level-up moves
 
 MisdreavusEvosAttacks:
+        db EVOLVE_LEVEL, 18, MISMAGIUS
 	db 0 ; no more evolutions
 	db 1, HYPNOSIS
 	db 1, PSYBEAM
@@ -3349,3 +3350,14 @@ CelebiEvosAttacks:
 	db 40, BATON_PASS
 	db 50, PERISH_SONG
 	db 0 ; no more level-up moves
+
+MismagiusEvosAttacks:
+        db 0 ; no more evolutions
+	db 1, HYPNOSIS
+	db 1, PSYBEAM
+	db 22, DREAM_EATER
+	db 28, PSYCHIC_M
+	db 36, NIGHTMARE
+        db 44, DESTINY_BOND
+	db 50, PERISH_SONG
+        db 0 ; no more level-up moves
