@@ -106,6 +106,8 @@ ROMX $20
 ROMX $21
 	"bank21"
 	"Credits"
+ROMX $22
+        "Pics 14"
 ROMX $23
 	"bank23"
 ROMX $24
@@ -120,7 +122,7 @@ ROMX $2a
 ROMX $2b
 	"Map Blocks 2"
 ROMX $2e
-	"Pics 14"
+	"Pics 15"
 	org $6300
 	"bank2E"
 ROMX $30
