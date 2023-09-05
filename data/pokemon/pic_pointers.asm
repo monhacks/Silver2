@@ -406,6 +406,9 @@ PokemonPicPointers::
 
 	; Unown pics have their own table. See UnownPicPointers
 
+        dbw -1, -1
+	dbw -1, -1
+
 	dba_pic WobbuffetFrontpic
 	dba_pic WobbuffetBackpic
 	dba_pic GirafarigFrontpic
