@@ -42,8 +42,6 @@ KangaskhanFrontpic:  INCBIN "gfx/pokemon/kangaskhan/front_silver.2bpp.lz"
 ArbokFrontpic:       INCBIN "gfx/pokemon/arbok/front_silver.2bpp.lz"
 SeakingFrontpic:     INCBIN "gfx/pokemon/seaking/front_silver.2bpp.lz"
 MeganiumFrontpic:    INCBIN "gfx/pokemon/meganium/front_silver.2bpp.lz"
-LassPic:             INCBIN "gfx/trainers/lass.2bpp.lz"
-
 
 SECTION "Pics 2", ROMX
 
@@ -70,7 +68,7 @@ KadabraFrontpic:     INCBIN "gfx/pokemon/kadabra/front_silver.2bpp.lz"
 ; alakazam/back_silver.2bpp has an extra $80 byte at the end, and lzcomp
 ; cannot perfectly match the way it's compressed.
 ; Delete the ".bin" if you don't care about matching.
-AlakazamBackpic:     INCBIN "gfx/pokemon/alakazam/back_silver.2bpp.lz.bin"
+AlakazamBackpic:     INCBIN "gfx/pokemon/alakazam/back_silver.2bpp.lz"
 HitmontopBackpic:    INCBIN "gfx/pokemon/hitmontop/back_silver.2bpp.lz"
 CloysterBackpic:     INCBIN "gfx/pokemon/cloyster/back.2bpp.lz"
 GolbatFrontpic:      INCBIN "gfx/pokemon/golbat/front_silver.2bpp.lz"
@@ -692,7 +690,8 @@ UnownIBackpic:       INCBIN "gfx/pokemon/unown_i/back.2bpp.lz"
 UnownIFrontpic:      INCBIN "gfx/pokemon/unown_i/front.2bpp.lz"
 UnownRBackpic:       INCBIN "gfx/pokemon/unown_r/back.2bpp.lz"
 UnownRFrontpic:      INCBIN "gfx/pokemon/unown_r/front.2bpp.lz"
+LassPic:			 INCBIN "gfx/trainers/lass.2bpp.lz"
+MismagiusFrontpic:	INCBIN "gfx/pokemon/mismagius/front_silver.2bpp.lz"
+MismagiusBackpic:	INCBIN "gfx/pokemon/mismagius/back.2bpp.lz"
 
 SECTION "Pics 15", ROMX
-
-

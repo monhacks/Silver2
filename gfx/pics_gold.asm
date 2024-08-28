@@ -40,7 +40,6 @@ CharizardFrontpic:   INCBIN "gfx/pokemon/charizard/front_gold.2bpp.lz"
 SkarmoryFrontpic:    INCBIN "gfx/pokemon/skarmory/front_gold.2bpp.lz"
 WeezingFrontpic:     INCBIN "gfx/pokemon/weezing/front_gold.2bpp.lz"
 VenusaurFrontpic:    INCBIN "gfx/pokemon/venusaur/front_gold.2bpp.lz"
-BeedrillFrontpic:    INCBIN "gfx/pokemon/beedrill/front_gold.2bpp.lz"
 LugiaFrontpic:       INCBIN "gfx/pokemon/lugia/front_gold.2bpp.lz"
 NidorinoFrontpic:    INCBIN "gfx/pokemon/nidorino/front_gold.2bpp.lz"
 
@@ -689,8 +688,8 @@ UnownPBackpic:       INCBIN "gfx/pokemon/unown_p/back.2bpp.lz"
 UnownIFrontpic:      INCBIN "gfx/pokemon/unown_i/front.2bpp.lz"
 UnownRBackpic:       INCBIN "gfx/pokemon/unown_r/back.2bpp.lz"
 UnownRFrontpic:      INCBIN "gfx/pokemon/unown_r/front.2bpp.lz"
+BeedrillFrontpic:	 INCBIN "gfx/pokemon/beedrill/front_gold.2bpp.lz"
+MismagiusFrontpic:   INCBIN "gfx/pokemon/mismagius/front_gold.2bpp.lz"
+MismagiusBackpic:    INCBIN "gfx/pokemon/mismagius/back.2bpp.lz"
 
 SECTION "Pics 15", ROMX
-
-MismagiusFrontpic:   INCBIN "gfx/pokemon/mismagius/front_gold.2bpp.1z"
-MismagiusBackpic:    INCBIN "gfx/pokemon/mismagius/back.2bpp.1z"
