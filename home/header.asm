@@ -55,9 +55,6 @@ SECTION "serial", ROM0[$0058]
 SECTION "joypad", ROM0[$0060]
 	jp Joypad
 
-SECTION "sprites", ROM0[$0080]
-        jp Sprites
-
 SECTION "Header", ROM0[$0100]
 
 Start::

@@ -140,7 +140,7 @@ wBGPals2:: ds 8 palettes
 wOBPals2:: ds 8 palettes
 
 
-SECTION "Sprites", WRAM0
+SECTION "wSprites", WRAM0
 
 wShadowOAM::
 ; wShadowOAMSprite00 - wShadowOAMSprite39
